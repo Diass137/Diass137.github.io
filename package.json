@@ -1,4 +1,20 @@
-"repository": {
-    "type": "git",
-    "url": "git+https://github.com/Diass137/Diass137.github.io.git"
-},
+{
+   "name": "Diass137.github.io",
+   "version": "1.0.0",
+   "description": "",
+   "scripts": {
+       "build": "echo \"No build specified\" && exit 1",
+       "test": "echo \"No test specified\" && exit 1",
+       "start": "node index.js"
+   },
+   "repository": {
+       "type": "git",
+       "url": "git+https://github.com/Diass137/Diass137.github.io.git"
+   },
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+       "url": "https://github.com/Diass137/Diass137.github.io/issues"
+   },
+   "homepage": "https://github.com/Diass137/Diass137.github.io#readme"
+}
